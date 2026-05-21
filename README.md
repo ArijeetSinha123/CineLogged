@@ -6,7 +6,7 @@ A social tracking platform featuring an intuitive, modern UI and a deep media da
 Combining the social, diary-like feel of Letterboxd with a broader database that covers both movies and TV shows (like IMDb), all wrapped in a cleaner, more intuitive user interface. Many users frequently express frustration that Letterboxd lacks TV shows (or handles them poorly) and that IMDb lacks a modern, community-driven social aspect. **CineLogged is the solution.**
 
 
-## 🛠️ Tech Stack & Languages
+## Tech Stack & Languages
 
 - **Backend:** JavaScript (Node.js & Express.js)
 - **Frontend :** HTML5 / EJS (Embedded JavaScript Templates)
@@ -15,7 +15,7 @@ Combining the social, diary-like feel of Letterboxd with a broader database that
 - **External Data:** TMDb API (The Movie Database) for seamless Movie & TV show data fetching <br>
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 CineLogged/
@@ -71,7 +71,7 @@ CineLogged/
 ```
 <br>
 
-# 👥 Authors & Contributors
+## 👥 Authors & Contributors
 ### Arijeet Sinha, Anurag Chakraborty & Rahul Sen <br><br>
 
 
