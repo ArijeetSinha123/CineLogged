@@ -1,4 +1,4 @@
-# CineLogged 🎬
+# CineLogged 🎬 - A Social Media Site For Cinephiles
 
 A social tracking platform featuring an intuitive, modern UI and a deep media database.
 
